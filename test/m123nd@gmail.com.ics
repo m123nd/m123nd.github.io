@@ -1,0 +1,888 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:m123nd@gmail.com
+X-WR-TIMEZONE:Europe/Moscow
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20141031
+DTEND;VALUE=DATE:20141101
+DTSTAMP:20180831T142803Z
+UID:8sksa5ug6br9ng79bbd3s2rr8k@google.com
+CREATED:20141031T091036Z
+DESCRIPTION:
+LAST-MODIFIED:20141031T091036Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20141115
+DTEND;VALUE=DATE:20141116
+DTSTAMP:20180831T142803Z
+UID:6sv6aqme7k7b6hhsu0kb5nq7gs@google.com
+CREATED:20141103T225345Z
+DESCRIPTION:
+LAST-MODIFIED:20141103T225345Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20141104
+DTEND;VALUE=DATE:20141105
+RRULE:FREQ=MONTHLY;WKST=MO;UNTIL=20141203T235959Z;BYMONTHDAY=4
+DTSTAMP:20180831T142803Z
+UID:2a4fmkchhs40qj20g3lmq6j8uk@google.com
+CLASS:PRIVATE
+CREATED:20141103T225509Z
+DESCRIPTION:
+LAST-MODIFIED:20141129T103257Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151127T170000Z
+DTEND:20151127T200000Z
+DTSTAMP:20180831T142803Z
+ORGANIZER;CN=m123nd@gmail.com:mailto:m123nd@gmail.com
+UID:caqqksl824iciot9776unlrm20@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Anzhel
+ ika Odegova;X-NUM-GUESTS=0:mailto:anzhelika.odegova@gmail.com
+CREATED:20151026T142207Z
+DESCRIPTION:Номер заказа # 2162633\nVIP-Входной (Трибуны No7\,12)
+LAST-MODIFIED:20151026T142738Z
+LOCATION:Санкт-Петербург\, Крестовский остров\, Футбольная аллея\, д. 8
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Limp Bizkit
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160921T134500Z
+DTEND:20160921T144500Z
+DTSTAMP:20180831T142803Z
+ORGANIZER;CN=jennifer@mvp-interactive.com:mailto:jennifer@mvp-interactive.c
+ om
+UID:ajle845easbg37hdqet0gu63d4@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Gavin 
+ Renwick;X-NUM-GUESTS=0:mailto:gavin@mvp-interactive.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Ilya P
+ olitov;X-NUM-GUESTS=0:mailto:m123nd@gmail.com
+CREATED:20160920T221845Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descriptio
+ n.\n\nThis event has a Google Hangouts video call.\nJoin: https://plus.goog
+ le.com/hangouts/_/mvp-interactive.com/call-with-ilya?hceid=amVubmlmZXJAbXZw
+ LWludGVyYWN0aXZlLmNvbQ.ajle845easbg37hdqet0gu63d4&hs=121\n-::~:~::~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20160921T002316Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Call with Ilya re Proposals
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20161109
+DTEND;VALUE=DATE:20161112
+DTSTAMP:20180831T142803Z
+ORGANIZER;CN=unknownorganizer@calendar.google.com:mailto:unknownorganizer@c
+ alendar.google.com
+UID:7kukuqrfedlm2f9tiptv1he8de8mlfvu59dtdabcankmc4m11db11154g0o6nlde03cg
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Ilya P
+ olitov;X-NUM-GUESTS=0:mailto:m123nd@gmail.com
+CLASS:PRIVATE
+CREATED:20161004T221444Z
+DESCRIPTION:Holiday Inn Hotel & Suites Clearwater Beach\n521 South Gulfview
+  Boulevard\, Clearwater Beach\, FL 33767\, United States\n+1 727-447-6461\n
+ \nДата и время заезда: 9 нояб 2016 12:00AM\nДата и время выезда: 11 нояб 20
+ 16 12:00AM\n
+LAST-MODIFIED:20161019T222623Z
+LOCATION:521 South Gulfview Boulevard\, Clearwater Beach\, FL 33767\, Unite
+ d States
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Гостиница "Holiday Inn Hotel & Suites Clearwater Beach"
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161101T140000Z
+DTEND:20161231T150000Z
+DTSTAMP:20180831T142803Z
+ORGANIZER;CN=m123nd@gmail.com:mailto:m123nd@gmail.com
+UID:70sjcdr3c4sjgb9g6oq3eb9kccsm4bb269i3ab9l6gpmcd9m6kqmaoj6ck@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=Ilya P
+ olitov;X-NUM-GUESTS=0:mailto:m123nd@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=Anzhel
+ ika Odegova;X-NUM-GUESTS=0:mailto:anzhelika.odegova@gmail.com
+CREATED:20161022T134610Z
+DESCRIPTION:
+LAST-MODIFIED:20161022T150405Z
+LOCATION:Совесть
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Верни долг
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170411
+DTEND;VALUE=DATE:20170413
+DTSTAMP:20180831T142803Z
+ORGANIZER;CN=unknownorganizer@calendar.google.com:mailto:unknownorganizer@c
+ alendar.google.com
+UID:7kukuqrfedlm2f9t3bd0op1022pqu9eqj0bm10r5fes762hs4nj41coh8a4qr339qhb0
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Ilya P
+ olitov;X-NUM-GUESTS=0:mailto:m123nd@gmail.com
+CLASS:PRIVATE
+CREATED:20170326T201819Z
+DESCRIPTION:La Quinta Inn & Suites Orlando UCF\n11805 Research Parkway\, Or
+ lando (Florida)\, United States of America\, FL 32826\n+1 407-737-6075\n\nД
+ ата и время заезда: 11 апр 2017 3:00PM\nДата и время выезда: 12 апр 2017 12
+ :00PM\n
+LAST-MODIFIED:20170402T174124Z
+LOCATION:La Quinta Inn & Suites Orlando UCF\, 11805 Research Parkway\, Orla
+ ndo (Florida)\, United States of America\, FL 32826
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Гостиница "La Quinta Inn & Suites Orlando UCF"
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170829
+DTEND;VALUE=DATE:20170901
+DTSTAMP:20180831T142803Z
+ORGANIZER;CN=unknownorganizer@calendar.google.com:mailto:unknownorganizer@c
+ alendar.google.com
+UID:7kukuqrfedlm2f9touormih8muofkd4upc36ht3v9sv7rh5be6ol940lpli4h458qmng
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Ilya P
+ olitov;X-NUM-GUESTS=0:mailto:m123nd@gmail.com
+CLASS:PRIVATE
+CREATED:20170408T104059Z
+DESCRIPTION:Sheraton Gateway Los Angeles Hotel\n6101 W Century Blvd\, Los A
+ ngeles\, CA 90045\, United States\n+1 310-642-1111\n\nДата и время заезда: 
+ 29 авг 2017 3:00PM\nДата и время выезда: 31 авг 2017 12:00PM\n
+LAST-MODIFIED:20170502T193846Z
+LOCATION:6101 W Century Blvd\, Los Angeles\, CA 90045\, United States
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Гостиница "Sheraton Gateway Los Angeles Hotel"
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161218T121500Z
+DTEND:20161218T135000Z
+DTSTAMP:20180831T142803Z
+ORGANIZER;CN=unknownorganizer@calendar.google.com:mailto:unknownorganizer@c
+ alendar.google.com
+UID:7kukuqrfedlm2f9tlo5a65g9v1tqn6hgkgsrcit4k02h8eku7efpst5a2pc7ieh5nre0
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Ilya P
+ olitov;X-NUM-GUESTS=0:mailto:m123nd@gmail.com
+CLASS:PRIVATE
+CREATED:20161214T184538Z
+DESCRIPTION:S7\, рейс 49\nМосква (DME)\, 4:36PM (по местному времени) – Сан
+ кт-Петербург (LED)\, 5:56PM (по местному времени)\n\nКод бронирования: 5YGA
+ 28
+LAST-MODIFIED:20170505T231431Z
+LOCATION:Москва DME
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Авиаперелет в г. Санкт-Петербург
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161216T022000Z
+DTEND:20161216T034500Z
+DTSTAMP:20180831T142803Z
+ORGANIZER;CN=unknownorganizer@calendar.google.com:mailto:unknownorganizer@c
+ alendar.google.com
+UID:7kukuqrfedlm2f9tv5it32oihjaia6kf4q4sv12nprvhsj281v9397s7d64kal3vj350
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Ilya P
+ olitov;X-NUM-GUESTS=0:mailto:m123nd@gmail.com
+CLASS:PRIVATE
+CREATED:20161214T184537Z
+DESCRIPTION:S7\, рейс 38\nСанкт-Петербург (LED)\, 5:23AM (по местному време
+ ни) – Москва (DME)\, 6:43AM (по местному времени)\n\nКод бронирования: 5YGA
+ 28
+LAST-MODIFIED:20170505T231431Z
+LOCATION:Санкт-Петербург LED
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Авиаперелет в г. Москва
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170622T120000Z
+DTEND:20170622T130000Z
+DTSTAMP:20180831T142803Z
+ORGANIZER;CN=alexey.pavlenko@soteranalytics.com:mailto:alexey.pavlenko@sote
+ ranalytics.com
+UID:3007ni4q25u0j3o5deskmve4om@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Il
+ ya Politov;X-NUM-GUESTS=0:mailto:m123nd@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=alexey
+ .pavlenko@soteranalytics.com;X-NUM-GUESTS=0:mailto:alexey.pavlenko@soterana
+ lytics.com
+CREATED:20170621T150448Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descriptio
+ n.\n\nThis event has a video call.\nJoin: https://meet.google.com/sgo-euga-
+ rmu\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~::~:~::-
+LAST-MODIFIED:20170622T085355Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Design call
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170729
+DTEND;VALUE=DATE:20170801
+DTSTAMP:20180831T142803Z
+ORGANIZER;CN=unknownorganizer@calendar.google.com:mailto:unknownorganizer@c
+ alendar.google.com
+UID:7kukuqrfedlm2f9t5te8m2nj327q11nu1sq7aen127gi6kjf60lg4c0vr6mk9epflh0g
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Ilya P
+ olitov;X-NUM-GUESTS=0:mailto:m123nd@gmail.com
+CLASS:PRIVATE
+CREATED:20170714T155457Z
+DESCRIPTION:Hostel For You\nul. Kirova\, 8Б\, Petrozavodsk\, 185035\, Росси
+ йская Федерация\n+7 953 548-00-00\n\nДата и время заезда: 29 июл 2017 2:00P
+ M\nДата и время выезда: 31 июл 2017 12:00PM\n
+LAST-MODIFIED:20170725T133451Z
+LOCATION:ul. Kirova\, 8Б\, Petrozavodsk\, 185035\, Российская Федерация
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Гостиница "Hostel For You"
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170715
+DTEND;VALUE=DATE:20170717
+DTSTAMP:20180831T142803Z
+ORGANIZER;CN=unknownorganizer@calendar.google.com:mailto:unknownorganizer@c
+ alendar.google.com
+UID:7kukuqrfedlm2f9t61q8v3d513m1llrtmv15bo2sqf09tj8e27jo7fno142edaako950
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Ilya P
+ olitov;X-NUM-GUESTS=0:mailto:m123nd@gmail.com
+CLASS:PRIVATE
+CREATED:20170714T163822Z
+DESCRIPTION:Турбаза ЗАЙКИНА ДАЧА\ndierievnia Tiuppiegha Riespublika Karieli
+ ia\, Kondopozhskii raion\, Konchezero\, 186207\, Российская Федерация\n+7 9
+ 05 588-81-24\n\nДата и время заезда: 15 июл 2017 1:00PM\nДата и время выезд
+ а: 16 июл 2017 12:00PM\n
+LAST-MODIFIED:20170725T133455Z
+LOCATION:dierievnia Tiuppiegha Riespublika Karieliia\, Kondopozhskii raion\
+ , Konchezero\, 186207\, Российская Федерация
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Гостиница "Турбаза ЗАЙКИНА ДАЧА"
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170830T205500Z
+DTEND:20170830T222000Z
+DTSTAMP:20180831T142803Z
+ORGANIZER;CN=unknownorganizer@calendar.google.com:mailto:unknownorganizer@c
+ alendar.google.com
+UID:7kukuqrfedlm2f9t2oa4hhd82o3ms6el0q3k66u0thdu4mh1l7surn571oqmamos5200
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Ilya P
+ olitov;X-NUM-GUESTS=0:mailto:m123nd@gmail.com
+CLASS:PRIVATE
+CREATED:20170727T172937Z
+DESCRIPTION:S7\, рейс 26\nСанкт-Петербург (LED)\, 12:04AM (по местному врем
+ ени) – Москва (DME)\, 1:35AM (по местному времени)\n\nКод бронирования: 227
+ XCP
+LAST-MODIFIED:20170830T225416Z
+LOCATION:Санкт-Петербург LED
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Авиаперелет в г. Москва (S7 26)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170831T032000Z
+DTEND:20170831T053000Z
+DTSTAMP:20180831T142803Z
+ORGANIZER;CN=unknownorganizer@calendar.google.com:mailto:unknownorganizer@c
+ alendar.google.com
+UID:7kukuqrfedlm2f9tv1dt4su9j6a1ff9a0q22hcf4uvl1ia46t39m6c65sqdo31m3710g
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Ilya P
+ olitov;X-NUM-GUESTS=0:mailto:m123nd@gmail.com
+CLASS:PRIVATE
+CREATED:20170727T172937Z
+DESCRIPTION:S7\, рейс 1121\nМосква (DME)\, 6:26AM (по местному времени) – А
+ напа (AAQ)\, 8:32AM (по местному времени)\n\nКод бронирования: 227XCP
+LAST-MODIFIED:20170831T055154Z
+LOCATION:Москва DME
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Авиаперелет в г. Анапа (S7 1121)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170906T062000Z
+DTEND:20170906T083000Z
+DTSTAMP:20180831T142803Z
+ORGANIZER;CN=unknownorganizer@calendar.google.com:mailto:unknownorganizer@c
+ alendar.google.com
+UID:7kukuqrfedlm2f9t5ivn143rq8645c43k9f5bg8ak23sb57t1kmrnf3qpqj87mqcva5g
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Ilya P
+ olitov;X-NUM-GUESTS=0:mailto:m123nd@gmail.com
+CLASS:PRIVATE
+CREATED:20170727T172937Z
+DESCRIPTION:S7\, рейс 1122\nАнапа (AAQ)\, 10:50AM (по местному времени) – М
+ осква (DME)\, 12:40PM (по местному времени)\n\nКод бронирования: 227XCP
+LAST-MODIFIED:20170906T095433Z
+LOCATION:Анапа AAQ
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Авиаперелет в г. Москва (S7 1122)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170906T092000Z
+DTEND:20170906T105000Z
+DTSTAMP:20180831T142803Z
+ORGANIZER;CN=unknownorganizer@calendar.google.com:mailto:unknownorganizer@c
+ alendar.google.com
+UID:7kukuqrfedlm2f9t50qtsq3ofuoran4kjehrmt82p830ukskg441hp01okvj31ga1lc0
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Ilya P
+ olitov;X-NUM-GUESTS=0:mailto:m123nd@gmail.com
+CLASS:PRIVATE
+CREATED:20170727T172937Z
+DESCRIPTION:S7\, рейс 39\nМосква (DME)\, 12:27PM (по местному времени) – Са
+ нкт-Петербург (LED)\, 1:59PM (по местному времени)\n\nКод бронирования: 227
+ XCP
+LAST-MODIFIED:20170906T112144Z
+LOCATION:Москва DME
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Авиаперелет в г. Санкт-Петербург (S7 39)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170315
+DTEND;VALUE=DATE:20170317
+DTSTAMP:20180831T142803Z
+ORGANIZER;CN=unknownorganizer@calendar.google.com:mailto:unknownorganizer@c
+ alendar.google.com
+UID:7kukuqrfedlm2f9tk4bgjf17dm15cggo0t2aghmoil4a1mvhfultrarmdnb2aulpg110
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Ilya P
+ olitov;X-NUM-GUESTS=0:mailto:m123nd@gmail.com
+CLASS:PRIVATE
+CREATED:20170311T225257Z
+DESCRIPTION:W South Beach\n2201 Collins Avenue\, Miami Beach\, South Beach\
+ , United States of America\, FL 33139\n+1 305-938-3000\n\nДата и время заез
+ да: 15 мар 2017 4:00PM\nДата и время выезда: 16 мар 2017 11:00AM\n
+LAST-MODIFIED:20171122T081619Z
+LOCATION:W South Beach\, 2201 Collins Avenue\, Miami Beach (Florida)\, Sout
+ h Beach\, United States of America\, FL 33139
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Гостиница "W South Beach"
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170715
+DTEND;VALUE=DATE:20170718
+DTSTAMP:20180831T142803Z
+ORGANIZER;CN=unknownorganizer@calendar.google.com:mailto:unknownorganizer@c
+ alendar.google.com
+UID:7kukuqrfedlm2f9t6od18k6c9knp0dksljoj8qclg5tieg3emdgk4ofsi15d04d3bnrg
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Ilya P
+ olitov;X-NUM-GUESTS=0:mailto:m123nd@gmail.com
+CLASS:PRIVATE
+CREATED:20170714T171918Z
+DESCRIPTION:Спа Отель Карелия\nПетрозаводск\n+7 814 273-33-33\n\nДата и вре
+ мя заезда: 15 июл 2017 2:00PM\nДата и время выезда: 17 июл 2017 12:00PM\n
+LAST-MODIFIED:20171122T102830Z
+LOCATION:Naberezhnaya Gyllinga 2\, Petrozavodsk\, 185005\, Российская Федер
+ ация
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Гостиница "Спа Отель Карелия"
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20180205T090000
+DTEND;TZID=America/Los_Angeles:20180205T093000
+RRULE:FREQ=WEEKLY;UNTIL=20180212T075959Z;BYDAY=MO
+DTSTAMP:20180831T142803Z
+ORGANIZER;CN=scottpho@mybookingpal.com:mailto:scottpho@mybookingpal.com
+UID:1ol0gsdl9e6v0j6p8ivsilq1js@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jasmin
+ e@bookingpal.com;X-NUM-GUESTS=0:mailto:jasmine@bookingpal.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Scott 
+ Pho;X-NUM-GUESTS=0:mailto:scottpho@mybookingpal.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Il
+ ya Politov;X-NUM-GUESTS=0:mailto:m123nd@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=yassi@
+ mybookingpal.com;X-NUM-GUESTS=0:mailto:yassi@mybookingpal.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Stephe
+ n Ananias;X-NUM-GUESTS=0:mailto:stephen@mybookingpal.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Alex A
+ ydin;X-NUM-GUESTS=0:mailto:alex@mybookingpal.com
+CREATED:20180130T172902Z
+DESCRIPTION:conference room
+LAST-MODIFIED:20180212T173338Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:BestStayz Consumer Facing Website Stand Up
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20180212T090000
+DTEND;TZID=America/Los_Angeles:20180212T093000
+RRULE:FREQ=WEEKLY;UNTIL=20180219T075959Z;BYDAY=MO,TU
+DTSTAMP:20180831T142803Z
+ORGANIZER;CN=scottpho@mybookingpal.com:mailto:scottpho@mybookingpal.com
+UID:8ruips7svdkr5jh1c83qsbv5pk@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Ilya P
+ olitov;X-NUM-GUESTS=0:mailto:m123nd@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=yassi@
+ mybookingpal.com;X-NUM-GUESTS=0:mailto:yassi@mybookingpal.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Scott 
+ Pho;X-NUM-GUESTS=0:mailto:scottpho@mybookingpal.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jasmin
+ e@bookingpal.com;X-NUM-GUESTS=0:mailto:jasmine@bookingpal.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Alex A
+ ydin;X-NUM-GUESTS=0:mailto:alex@mybookingpal.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Stephe
+ n Ananias;X-NUM-GUESTS=0:mailto:stephen@mybookingpal.com
+CREATED:20180130T172902Z
+DESCRIPTION:conference room
+LAST-MODIFIED:20180219T170026Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:BestStayz Consumer Facing Website Stand Up
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20180212T090000
+DTEND;TZID=America/Los_Angeles:20180212T093000
+DTSTAMP:20180831T142803Z
+ORGANIZER;CN=scottpho@mybookingpal.com:mailto:scottpho@mybookingpal.com
+UID:8ruips7svdkr5jh1c83qsbv5pk@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Ilya P
+ olitov;X-NUM-GUESTS=0:mailto:m123nd@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Alex A
+ ydin;X-NUM-GUESTS=0:mailto:alex@mybookingpal.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=yassi@
+ mybookingpal.com;X-NUM-GUESTS=0:mailto:yassi@mybookingpal.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jasmin
+ e@bookingpal.com;X-NUM-GUESTS=0:mailto:jasmine@bookingpal.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Stephe
+ n Ananias;X-NUM-GUESTS=0:mailto:stephen@mybookingpal.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Scott 
+ Pho;X-NUM-GUESTS=0:mailto:scottpho@mybookingpal.com
+RECURRENCE-ID;TZID=America/Los_Angeles:20180212T090000
+CREATED:20180130T172902Z
+DESCRIPTION:conference room
+LAST-MODIFIED:20180219T170026Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:BestStayz Consumer Facing Website Stand Up
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20180424
+DTEND;VALUE=DATE:20180427
+DTSTAMP:20180831T142803Z
+ORGANIZER;CN=unknownorganizer@calendar.google.com:mailto:unknownorganizer@c
+ alendar.google.com
+UID:7kukuqrfedlm2f9ti8tmqvupdm2ps3g42vbcbsb951vqhs7m1ce78lleohujs38uc37g
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Ilya P
+ olitov;X-NUM-GUESTS=0:mailto:m123nd@gmail.com
+CLASS:PRIVATE
+CREATED:20180317T034829Z
+DESCRIPTION:Locanda Latina\nVia del Sole\, 5\, 50123 Firenze Città Metropol
+ itana di Firenze\, Италия\n+39 339 799 3226\n\nДата и время заезда: 24 апр 
+ 2018 12:00AM\nДата и время выезда: 26 апр 2018 12:00AM\n
+LAST-MODIFIED:20180317T034829Z
+LOCATION:Via del Sole\, 5\, 50123 Firenze Città Metropolitana di Firenze\, 
+ Италия
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Гостиница "Locanda Latina"
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180423T043000Z
+DTEND:20180423T062500Z
+DTSTAMP:20180831T142803Z
+ORGANIZER;CN=unknownorganizer@calendar.google.com:mailto:unknownorganizer@c
+ alendar.google.com
+UID:bf5a45d5-2d44-487c-9bee-2d47f446575f
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Il
+ ya Politov;X-NUM-GUESTS=0:mailto:m123nd@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=TR
+ AVELLER;X-NUM-GUESTS=0:mailto:innako1esnikova@yandex.ru
+CREATED:19000101T120000Z
+DESCRIPTION:Verona Porta Nuova-Venezia S. Lucia\;Train: Regionale 20821\, d
+ eparting from Verona Porta Nuova Hours: 07:30\; arriving at Venezia S. Luci
+ a Hours: 09:25Ticket Code: 831589463\,831589464\;
+LAST-MODIFIED:20180327T115356Z
+LOCATION:Verona Porta Nuova
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Trip Verona Porta Nuova-Venezia S. Lucia\, Train Regionale 20821\, 
+ Ticket Code 831589463\,831589464 \,  
+TRANSP:OPAQUE
+ATTACH;FILENAME=ILYA-POLITOV-19593566136586423649902242975.pdf:?view=att&th
+ =162674aa4022fe78&attid=0.1&disp=attd&zw
+ATTACH;FILENAME=ILYA-POLITOV-19593566144831780499912124634.pdf:?view=att&th
+ =162674aa4022fe78&attid=0.2&disp=attd&zw
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180423T043000Z
+DTEND:20180423T062500Z
+DTSTAMP:20180831T142803Z
+ORGANIZER;CN=unknownorganizer@calendar.google.com:mailto:unknownorganizer@c
+ alendar.google.com
+UID:2624387b-41b7-48d8-899e-593210c2aee5
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Il
+ ya Politov;X-NUM-GUESTS=0:mailto:m123nd@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=TR
+ AVELLER;X-NUM-GUESTS=0:mailto:innako1esnikova@yandex.ru
+CREATED:19000101T120000Z
+DESCRIPTION:Verona Porta Nuova-Venezia S. Lucia\;Train: Regionale 20821\, d
+ eparting from Verona Porta Nuova Hours: 07:30\; arriving at Venezia S. Luci
+ a Hours: 09:25Ticket Code: 831589464\,831589463\;
+LAST-MODIFIED:20180327T115408Z
+LOCATION:Verona Porta Nuova
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Trip Verona Porta Nuova-Venezia S. Lucia\, Train Regionale 20821\, 
+ Ticket Code 831589464\,831589463 \,  
+TRANSP:OPAQUE
+ATTACH;FILENAME=ILYA-POLITOV-19593566141408183511524764854.pdf:?view=att&th
+ =1626746e01201925&attid=0.1&disp=attd&zw
+ATTACH;FILENAME=ILYA-POLITOV-19593566133289657874079409408.pdf:?view=att&th
+ =1626746e01201925&attid=0.2&disp=attd&zw
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20180423
+DTEND;VALUE=DATE:20180427
+DTSTAMP:20180831T142803Z
+ORGANIZER;CN=unknownorganizer@calendar.google.com:mailto:unknownorganizer@c
+ alendar.google.com
+UID:7kukuqrfedlm2f9tm4o9opdd3i10th80nd6k7aa3jg5ks1suogijnrcbk6mp7lusqds0
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Ilya P
+ olitov;X-NUM-GUESTS=0:mailto:m123nd@gmail.com
+CLASS:PRIVATE
+CREATED:20180327T120220Z
+DESCRIPTION:Boboli & Pitti House\nFlorence\n\nДата и время заезда: 23 апр 2
+ 018 12:00AM\nДата и время выезда: 26 апр 2018 12:00AM\n
+LAST-MODIFIED:20180426T051325Z
+LOCATION:Boboli & Pitti House\, Florence
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Гостиница "Boboli & Pitti House"
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180417T060000Z
+DTEND:20180417T091800Z
+DTSTAMP:20180831T142803Z
+ORGANIZER;CN=unknownorganizer@calendar.google.com:mailto:unknownorganizer@c
+ alendar.google.com
+UID:7kukuqrfedlm2f9t4tcl73nsrdmp2vs33ggrjrjo0erhr46ovh9b3lt20er8kbg2ipm0
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Ilya P
+ olitov;X-NUM-GUESTS=0:mailto:m123nd@gmail.com
+CLASS:PRIVATE
+CREATED:20180304T140244Z
+DESCRIPTION:Pobeda\, рейс 879\nСанкт-Петербург (LED)\, 9:00AM (по местному 
+ времени) – Пиза (PSA)\, 11:18AM (по местному времени)\n\nКод бронирования: 
+ SY492P
+LAST-MODIFIED:20180426T051443Z
+LOCATION:Санкт-Петербург LED
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Авиаперелет в г. Пиза (DP 879)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180426T090500Z
+DTEND:20180426T120900Z
+DTSTAMP:20180831T142803Z
+ORGANIZER;CN=unknownorganizer@calendar.google.com:mailto:unknownorganizer@c
+ alendar.google.com
+UID:7kukuqrfedlm2f9tk0cp5c7pa54v1hnl8lfk9rro64g2o0tink3dcsuemhplinmq0ktg
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Ilya P
+ olitov;X-NUM-GUESTS=0:mailto:m123nd@gmail.com
+CLASS:PRIVATE
+CREATED:20180426T051443Z
+DESCRIPTION:Pobeda\, рейс 880\nПиза (PSA)\, 11:05AM (по местному времени) –
+  Санкт-Петербург (LED)\, 3:09PM (по местному времени)\n\nКод бронирования: 
+ SY492P
+LAST-MODIFIED:20180426T051443Z
+LOCATION:Пиза PSA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Авиаперелет в г. Санкт-Петербург (DP 880)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180421T034400Z
+DTEND:20180421T052300Z
+DTSTAMP:20180831T142803Z
+ORGANIZER;CN=unknownorganizer@calendar.google.com:mailto:unknownorganizer@c
+ alendar.google.com
+UID:c0e7b72d-b0f6-4415-a35d-9cc63b8cf247
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=TR
+ AVELLER;X-NUM-GUESTS=0:mailto:innako1esnikova@yandex.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Il
+ ya Politov;X-NUM-GUESTS=0:mailto:m123nd@gmail.com
+CREATED:19000101T120000Z
+DESCRIPTION:Genova Piazza Principe-Milano Centrale\;Train: Intercity 652\, 
+ departing from Genova Piazza Principe Hours: 06:44\; arriving at Milano Cen
+ trale Hours: 08:23 Coach 3\, Position 45\, Position 43\; pnr code ND7BS5
+LAST-MODIFIED:20180609T005954Z
+LOCATION:Genova Piazza Principe
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Trip Genova Piazza Principe-Milano Centrale\, Train Intercity 652\,
+  Coach 3\, Position 45\, 43\, PNR ND7BS5\,  
+TRANSP:OPAQUE
+ATTACH;FILENAME=ILYA-POLITOV-20006215661680134974339606915.pdf:?view=att&th
+ =162c07fc2521a795&attid=0.1&disp=attd&zw
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180426T042800Z
+DTEND:20180426T053400Z
+DTSTAMP:20180831T142803Z
+ORGANIZER;CN=unknownorganizer@calendar.google.com:mailto:unknownorganizer@c
+ alendar.google.com
+UID:4af1e7f9-d621-4c96-8e7c-0b7ef670274b
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=TR
+ AVELLER;X-NUM-GUESTS=0:mailto:innako1esnikova@yandex.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Il
+ ya Politov;X-NUM-GUESTS=0:mailto:m123nd@gmail.com
+CREATED:19000101T120000Z
+DESCRIPTION:Firenze S. M. Novella-Pisa Centrale\;Train: Regionale Veloce 31
+ 07\, departing from Firenze S. M. Novella Hours: 07:28\; arriving at Pisa C
+ entrale Hours: 08:34Ticket Code: 835001552\,835001551\;
+LAST-MODIFIED:20180609T005955Z
+LOCATION:Firenze S. M. Novella
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Trip Firenze S. M. Novella-Pisa Centrale\, Train Regionale Veloce 3
+ 107\, Ticket Code 835001552\,835001551 \,  
+TRANSP:OPAQUE
+ATTACH;FILENAME=ILYA-POLITOV-19700882826149335253696031662.pdf:?view=att&th
+ =16280936315683d8&attid=0.1&disp=attd&zw
+ATTACH;FILENAME=ILYA-POLITOV-1970088281185294996449855942.pdf:?view=att&th=
+ 16280936315683d8&attid=0.2&disp=attd&zw
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180421T171500Z
+DTEND:20180421T182800Z
+DTSTAMP:20180831T142803Z
+ORGANIZER;CN=unknownorganizer@calendar.google.com:mailto:unknownorganizer@c
+ alendar.google.com
+UID:74fa2f3e-1999-4ad3-9733-1bda0f7c79ff
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=TR
+ AVELLER;X-NUM-GUESTS=0:mailto:innako1esnikova@yandex.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Il
+ ya Politov;X-NUM-GUESTS=0:mailto:m123nd@gmail.com
+CREATED:19000101T120000Z
+DESCRIPTION:Milano Centrale-Verona Porta Nuova\;Train: Frecciarossa 9759\, 
+ departing from Milano Centrale Hours: 20:15\; arriving at Verona Porta Nuov
+ a Hours: 21:28 Coach 7\, Position 13B\, Position 13A\; pnr code KA699N
+LAST-MODIFIED:20180609T005955Z
+LOCATION:Milano Centrale
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Trip Milano Centrale-Verona Porta Nuova\, Train Frecciarossa 9759\,
+  Coach 7\, Position 13B\, 13A\, PNR KA699N\,  
+TRANSP:OPAQUE
+ATTACH;FILENAME=Ilya-Politov-19701107894835063279582498780.pdf:?view=att&th
+ =162809cf211cd673&attid=0.1&disp=attd&zw
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20180626
+DTEND;VALUE=DATE:20180629
+DTSTAMP:20180831T142803Z
+ORGANIZER;CN=unknownorganizer@calendar.google.com:mailto:unknownorganizer@c
+ alendar.google.com
+UID:7kukuqrfedlm2f9tcl0q6sof8afgm2qagdqenl2d94bbo10eqidj792d9frf08f8b7tg
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Ilya P
+ olitov;X-NUM-GUESTS=0:mailto:m123nd@gmail.com
+CLASS:PRIVATE
+CREATED:20180625T162226Z
+DESCRIPTION:Частная мини гостиница «Новороссийская 47»\nАнапа\n+7 918 364-4
+ 5-39\n\nДата и время заезда: 26 июн 2018 12:00AM\nДата и время выезда: 28 и
+ юн 2018 12:00AM\n
+LAST-MODIFIED:20180625T162226Z
+LOCATION:Частная мини гостиница «Новороссийская 47»\, Анапа
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Гостиница "Частная мини гостиница «Новороссийская 47»"
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180912T215000Z
+DTEND:20180912T231500Z
+DTSTAMP:20180831T142803Z
+ORGANIZER;CN=unknownorganizer@calendar.google.com:mailto:unknownorganizer@c
+ alendar.google.com
+UID:7kukuqrfedlm2f9t17tolmf70mebdi3brcau98gps9c8uhsneld13mk800m46sofuot0
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Ilya P
+ olitov;X-NUM-GUESTS=0:mailto:m123nd@gmail.com
+CLASS:PRIVATE
+CREATED:20180728T015339Z
+DESCRIPTION:ЮТэйр\, рейс 489\nМосква (VKO)\, 12:50AM (по местному времени) 
+ – Санкт-Петербург (LED)\, 2:15AM (по местному времени)\n\nКод бронирования:
+  JPWG4G
+LAST-MODIFIED:20180728T015339Z
+LOCATION:Москва VKO
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Авиаперелет в г. Санкт-Петербург (UT 489)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180904T095500Z
+DTEND:20180904T112000Z
+DTSTAMP:20180831T142803Z
+ORGANIZER;CN=unknownorganizer@calendar.google.com:mailto:unknownorganizer@c
+ alendar.google.com
+UID:7kukuqrfedlm2f9t2tsp2nj6dc0n64sg653amo2lvl5t2a1deljt5er63figvm1nrb4g
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Ilya P
+ olitov;X-NUM-GUESTS=0:mailto:m123nd@gmail.com
+CLASS:PRIVATE
+CREATED:20180728T015339Z
+DESCRIPTION:ЮТэйр\, рейс 370\nСанкт-Петербург (LED)\, 12:55PM (по местному 
+ времени) – Москва (VKO)\, 2:20PM (по местному времени)\n\nКод бронирования:
+  JPWG4G
+LAST-MODIFIED:20180728T015339Z
+LOCATION:Санкт-Петербург LED
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Авиаперелет в г. Москва (UT 370)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180423T042100Z
+DTEND:20180423T054800Z
+DTSTAMP:20180831T142803Z
+ORGANIZER;CN=unknownorganizer@calendar.google.com:mailto:unknownorganizer@c
+ alendar.google.com
+UID:1d15736a-3a26-4519-88de-e478e4b63115
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Il
+ ya Politov;X-NUM-GUESTS=0:mailto:m123nd@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=TR
+ AVELLER;X-NUM-GUESTS=0:mailto:innako1esnikova@yandex.ru
+CREATED:19000101T120000Z
+DESCRIPTION:Verona Porta Nuova-Venezia S. Lucia\;Treno: Regionale 2707\, pa
+ rtenza da Verona Porta Nuova Ore: 07:21\; arrivo a Venezia S. Lucia Ore: 08
+ :48Codice Biglietto: 831600541\,831600542\;
+LAST-MODIFIED:20180830T144804Z
+LOCATION:Verona Porta Nuova
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Viaggio Verona Porta Nuova-Venezia S. Lucia\, Treno Regionale 2707\
+ , Codice Biglietto 831600541\,831600542 \,  
+TRANSP:OPAQUE
+ATTACH;FILENAME=ILYA-POLITOV-19593925624114002194731203302.pdf:?view=att&th
+ =162675519ceb7985&attid=0.1&disp=attd&zw
+ATTACH;FILENAME=ILYA-POLITOV-1959392563471861377933356607.pdf:?view=att&th=
+ 162675519ceb7985&attid=0.2&disp=attd&zw
+END:VEVENT
+END:VCALENDAR
