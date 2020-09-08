@@ -1,0 +1,118 @@
+<!doctype html>
+<html>
+
+
+<head>
+    <meta charset="utf-8">
+    <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Lines Demo</title>
+
+
+    <style>
+
+        body {
+            background-color: #141414;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container{
+            display: block;
+            padding-top: 96px;
+            padding-left: 50%;
+        }
+
+        .o8 {
+            display: block;
+            width: 272px;
+            height: 272px;
+        }
+
+        .title {
+            color: #D0D0D0;
+            font-family: Roboto Mono;
+            font-style: normal;
+            font-weight: normal;
+            font-size: 10px;
+            line-height: 14px;
+            text-align: center;
+        }
+
+        .s1:hover,
+        .s2:hover,
+        .s3:hover,
+        .s4:hover,
+        .s5:hover,
+        .s6:hover,
+        .s7:hover,
+        .s8:hover {
+            fill: #2BBFFF;
+            cursor: pointer;
+        }        
+
+        .connection:hover > #line1 {
+            stroke: #2BBFFF;       
+        }
+
+        .connection:hover > #arrow1 {
+            fill: #2BBFFF;         
+        }   
+
+    </style>
+</head>
+
+
+
+
+<body>
+
+
+
+    <div class="container">
+
+        <div class="object">
+
+            <svg width="272" height="272" viewBox="0 0 272 272" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+
+                <path class="s1" id="root1__s1" d="M136 48.0001L136 0C173.555 0 207.555 15.2223 232.167 39.8335L198.225 73.7747C182.3 57.8498 160.301 48.0001 136 48.0001Z" fill="#434343" fill-opacity="0.6"/>
+
+                <path class="s2" id="root1__s2" d="M198.224 73.773L232.167 39.8301C258.722 66.3857 272 101.191 272 135.997H224C223.999 111.697 214.149 89.6972 198.224 73.773Z" fill="#434343" fill-opacity="0.6"/>
+                <path class="s3" id="root1__s3" d="M198.225 198.225C214.15 182.301 224 160.301 224 136H272C272 173.555 256.778 207.555 232.167 232.167L198.225 198.225Z" fill="#434343" fill-opacity="0.6"/>
+                <path class="s4" id="root1__s4" d="M198.225 198.225C182.301 214.15 160.301 224 136 224L136 272C170.805 272 205.611 258.722 232.167 232.167L198.225 198.225Z" fill="#434343" fill-opacity="0.6"/>
+                <path class="s5" id="root1__s5" d="M73.7729 198.224L39.83 232.167C64.4412 256.778 98.4412 272 135.997 272V224C111.696 223.999 89.6971 214.149 73.7729 198.224Z" fill="#434343" fill-opacity="0.6"/>
+                <path class="s6" id="root1__s6" d="M48 136L0 136C0 170.805 13.2778 205.611 39.8335 232.167L73.7746 198.225C57.8497 182.301 48 160.301 48 136C48 136 48 136 48 136Z" fill="#434343" fill-opacity="0.6"/>
+                <path class="s7" id="root1__s7" d="M48 136H0C0 98.4447 15.2223 64.4447 39.8335 39.8335L73.7746 73.7746C57.8498 89.6995 48 111.699 48 136Z" fill="#434343" fill-opacity="0.6"/>
+                <path class="s8" id="root1__s8" d="M73.7729 73.7764L39.83 39.8335C66.3857 13.2779 101.191 3.05176e-05 135.997 3.05176e-05V48.0001C111.696 48.001 89.6971 57.8513 73.7729 73.7764Z" fill="url(#paint0_linear)"/>
+
+                <defs>
+                    <linearGradient id="paint0_linear" x1="72" y1="3.05176e-05" x2="136" y2="3.05176e-05" gradientUnits="userSpaceOnUse">
+                    <stop stop-color="#434343" stop-opacity="0.6"/>
+                    <stop offset="1" stop-color="#141414"/>
+                    </linearGradient>
+                </defs>
+            </svg>
+
+
+
+
+
+            <svg class="connection" width="104" height="210" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+                <path id="line1" opacity="0.6" d="M100 0C100 96 3.99997 96 3.99997 192" stroke="#727272"/>
+
+                <path id="arrow1" d="M0.5,4L10,0L0.5-4L0-3.5L1.6,0L0,3.5L0.5,4z" fill="#D0D0D0">
+                    <animateMotion rotate="auto" dur="4s" repeatCount="indefinite">
+                        <mpath xlink:href="#line1"/>
+                    </animateMotion>
+                </path>
+
+            </svg>
+
+    </div>
+
+</body>
+</html>
+
